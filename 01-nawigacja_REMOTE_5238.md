@@ -25,6 +25,5 @@
 *  względne - względem aktualnego katalogu (`pwd`)
 
 Hello
-Hello
 Hello World
 sth more

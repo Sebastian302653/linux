@@ -25,6 +25,9 @@
 *  względne - względem aktualnego katalogu (`pwd`)
 
 Hello
+<<<<<<< HEAD
 Hello
+=======
 Hello World
 sth more
+>>>>>>> feature
